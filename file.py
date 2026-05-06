@@ -1,3 +1,3 @@
 ﻿print("Hola Perú")
 print("Este es un texto en la rama/ejemplo")
-print("Esto es un cambio en peru vamos a comer un ceviche")
+print("En Perú se come su rico ceviche")
